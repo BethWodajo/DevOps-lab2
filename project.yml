@@ -1,0 +1,15 @@
+project_name: Awesome app
+version: 2.3.1
+Author: [Bob, Charlie, Alice]
+Author_two:
+  - Bob
+  - Charlie
+  - Alice
+Release_status: true
+Environment:
+  - name: Dev
+    url: dev.com
+  - name: staging
+    url: staging.com
+  - name: production
+    url: production.com
